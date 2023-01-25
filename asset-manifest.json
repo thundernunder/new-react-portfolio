@@ -1,26 +1,19 @@
 {
   "files": {
-    "main.css": "/thundernunder/new-react-portfolio/static/css/main.aa4ec3db.chunk.css",
-    "main.js": "/thundernunder/new-react-portfolio/static/js/main.e381bd50.chunk.js",
-    "main.js.map": "/thundernunder/new-react-portfolio/static/js/main.e381bd50.chunk.js.map",
-    "runtime-main.js": "/thundernunder/new-react-portfolio/static/js/runtime-main.d1084453.js",
-    "runtime-main.js.map": "/thundernunder/new-react-portfolio/static/js/runtime-main.d1084453.js.map",
-    "static/js/2.1e306fae.chunk.js": "/thundernunder/new-react-portfolio/static/js/2.1e306fae.chunk.js",
-    "static/js/2.1e306fae.chunk.js.map": "/thundernunder/new-react-portfolio/static/js/2.1e306fae.chunk.js.map",
+    "main.css": "/thundernunder/new-react-portfolio/static/css/main.db0e8be6.css",
+    "main.js": "/thundernunder/new-react-portfolio/static/js/main.c9ecb0e6.js",
+    "static/media/goatcars2.PNG": "/thundernunder/new-react-portfolio/static/media/goatcars2.d2e39afda181d4c8c978.PNG",
+    "static/media/play2day2.PNG": "/thundernunder/new-react-portfolio/static/media/play2day2.bd3c268fc36e435538c0.PNG",
+    "static/media/breakhub2.PNG": "/thundernunder/new-react-portfolio/static/media/breakhub2.5d2268a487fd63a69ddc.PNG",
+    "static/media/background2.jpg": "/thundernunder/new-react-portfolio/static/media/background2.7e5af95811c318674871.jpg",
+    "static/media/nathanUnderwoodResume12.1.22.pdf": "/thundernunder/new-react-portfolio/static/media/nathanUnderwoodResume12.1.22.e05141bcacdae35dc420.pdf",
+    "static/media/nate.png": "/thundernunder/new-react-portfolio/static/media/nate.37801706af43ed3a0376.png",
     "index.html": "/thundernunder/new-react-portfolio/index.html",
-    "static/css/main.aa4ec3db.chunk.css.map": "/thundernunder/new-react-portfolio/static/css/main.aa4ec3db.chunk.css.map",
-    "static/js/2.1e306fae.chunk.js.LICENSE.txt": "/thundernunder/new-react-portfolio/static/js/2.1e306fae.chunk.js.LICENSE.txt",
-    "static/media/background2.7e5af958.jpg": "/thundernunder/new-react-portfolio/static/media/background2.7e5af958.jpg",
-    "static/media/breakhub2.5d2268a4.PNG": "/thundernunder/new-react-portfolio/static/media/breakhub2.5d2268a4.PNG",
-    "static/media/goatcars2.d2e39afd.PNG": "/thundernunder/new-react-portfolio/static/media/goatcars2.d2e39afd.PNG",
-    "static/media/nate.37801706.png": "/thundernunder/new-react-portfolio/static/media/nate.37801706.png",
-    "static/media/nathanUnderwoodResume12.1.22.e05141bc.pdf": "/thundernunder/new-react-portfolio/static/media/nathanUnderwoodResume12.1.22.e05141bc.pdf",
-    "static/media/play2day2.bd3c268f.PNG": "/thundernunder/new-react-portfolio/static/media/play2day2.bd3c268f.PNG"
+    "main.db0e8be6.css.map": "/thundernunder/new-react-portfolio/static/css/main.db0e8be6.css.map",
+    "main.c9ecb0e6.js.map": "/thundernunder/new-react-portfolio/static/js/main.c9ecb0e6.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d1084453.js",
-    "static/js/2.1e306fae.chunk.js",
-    "static/css/main.aa4ec3db.chunk.css",
-    "static/js/main.e381bd50.chunk.js"
+    "static/css/main.db0e8be6.css",
+    "static/js/main.c9ecb0e6.js"
   ]
 }
