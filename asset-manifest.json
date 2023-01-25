@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/thundernunder/new-react-portfolio/static/css/main.aa4ec3db.chunk.css",
+    "main.js": "/thundernunder/new-react-portfolio/static/js/main.e381bd50.chunk.js",
+    "main.js.map": "/thundernunder/new-react-portfolio/static/js/main.e381bd50.chunk.js.map",
+    "runtime-main.js": "/thundernunder/new-react-portfolio/static/js/runtime-main.d1084453.js",
+    "runtime-main.js.map": "/thundernunder/new-react-portfolio/static/js/runtime-main.d1084453.js.map",
+    "static/js/2.1e306fae.chunk.js": "/thundernunder/new-react-portfolio/static/js/2.1e306fae.chunk.js",
+    "static/js/2.1e306fae.chunk.js.map": "/thundernunder/new-react-portfolio/static/js/2.1e306fae.chunk.js.map",
+    "index.html": "/thundernunder/new-react-portfolio/index.html",
+    "static/css/main.aa4ec3db.chunk.css.map": "/thundernunder/new-react-portfolio/static/css/main.aa4ec3db.chunk.css.map",
+    "static/js/2.1e306fae.chunk.js.LICENSE.txt": "/thundernunder/new-react-portfolio/static/js/2.1e306fae.chunk.js.LICENSE.txt",
+    "static/media/background2.7e5af958.jpg": "/thundernunder/new-react-portfolio/static/media/background2.7e5af958.jpg",
+    "static/media/breakhub2.5d2268a4.PNG": "/thundernunder/new-react-portfolio/static/media/breakhub2.5d2268a4.PNG",
+    "static/media/goatcars2.d2e39afd.PNG": "/thundernunder/new-react-portfolio/static/media/goatcars2.d2e39afd.PNG",
+    "static/media/nate.37801706.png": "/thundernunder/new-react-portfolio/static/media/nate.37801706.png",
+    "static/media/nathanUnderwoodResume12.1.22.e05141bc.pdf": "/thundernunder/new-react-portfolio/static/media/nathanUnderwoodResume12.1.22.e05141bc.pdf",
+    "static/media/play2day2.bd3c268f.PNG": "/thundernunder/new-react-portfolio/static/media/play2day2.bd3c268f.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1084453.js",
+    "static/js/2.1e306fae.chunk.js",
+    "static/css/main.aa4ec3db.chunk.css",
+    "static/js/main.e381bd50.chunk.js"
+  ]
+}
